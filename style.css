@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: blueviolet;
+    border: solid 5px black;
+    border-radius: 5px
+}
+header img{
+    width: 50px;
+    height: 50px;
+}
+h1{
+    text-align: center;
+    background-color: #b185da;
+    border: 5px inset #2c0338;
+    border-radius: 5px
+}
+footer{
+    border: 5px rgb(59, 63, 2);
+    border-radius: 5px;
+    background-color: yellowgreen;
+}
+footer p{
+    border: 5px yellow dashed;
+    border-radius: 5px;
+}
+.fireworksa{
+border: 7px double black;
+border-radius: 5px;
+background-color: blueviolet;
+text-align: center;
+}
+.fireworksb{
+    border: 7px double yellow;
+border-radius: 5px;
+background-color: yellowgreen;
+text-align: center;
+    
+}
+.fireworksc{
+    border: 7px double rgb(1, 43, 1);
+border-radius: 5px;
+background-color: green;
+text-align: center;
+    
+}
+.fireworksd{
+    border: 7px double black;
+border-radius: 5px;
+background-color: lightgreen;
+text-align: center;
+}
+.navx{
+border: 4px outset black;
+background-color: springgreen;
+border-radius: 4px;
+margin:25px;
+text-decoration: none;
+padding: 2px;
+font-style: black
+}
+.nav{
+border: 4px inset black;
+background-color: rgb(182, 116, 226);
+border-radius: 4px;
+margin:25px;
+text-decoration: none;
+padding: 2px;
+font-style: black
+}
+p{
+    font-size: 20px;
+
+}
+.center{
+    border: 5px solid black;
+    background-color: lightgreen;
+    text-align: center;
+}
+nav{
+    padding: 10px;
+    margin: 5px
+}
+.p-center{
+    text-align: center;
+}
+body{
+    text-align: center
+}
+.a-ofr{
+    border:6px dashed black;
+    background-color: yellowgreen;
+    text-decoration: none;
+    border-radius: 3px;
+}
